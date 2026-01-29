@@ -5,4 +5,7 @@ et aussi l'examen de 2026 de TypeScript. (Attention elle n'est pas bonne du tout
 
 
 
+UPDATE -> 17/20 la partie fonctionnalité et 11/20 pour la partie code review. du coup j'ai eu 15,5. Prenez avec des pincettes.
+
+
 
